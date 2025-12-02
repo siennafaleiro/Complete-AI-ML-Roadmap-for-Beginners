@@ -1,6 +1,6 @@
 # Contributing to AI-ML-Roadmap-from-scratch 🤝🏽
 
-I'm thrilled you're interested in contributing to this repository and helping others embark on their exciting journeys into AI and Machine Learning! This guide outlines how you can effectively contribute valuable resources and enhance the overall learning experience.
+I'm thrilled you're interested in contributing to this repository and helping others embark on their exciting journeys into [AI and Machine Learning](https://www.linkedin.com/pulse/top-7-artificial-intelligence-machine-learning-trends-sienna-faleiro-h4exe/)! This guide outlines how you can effectively contribute valuable resources and enhance the overall learning experience.
 
 ## How to Contribute
 
@@ -13,8 +13,8 @@ There are several ways you can contribute to this project:
 * Identify which module it belongs to.
 * Follow the existing format in the README.md file for consistency. Include details like:
     * Resource title.
-    * Type of resource (e.g., YouTube, Website, Blog, Course, etc.).
-    * Link to the resource (URL).
+    * Type of resource (e.g., [YouTube](https://www.youtube.com/@certfun), [Website](https://www.certfun.com/), [Blog](https://www.certfun.com/blog), Course, etc.).
+    * Link to the resource [https://bit.ly/3Xq0pPz](https://bit.ly/3Xq0pPz).
 <!--* Target level (e.g., Beginner, Intermediate, Advanced).-->
 
 **2. Improving Existing Resources:**
