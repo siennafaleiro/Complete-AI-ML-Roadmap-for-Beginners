@@ -1,9 +1,9 @@
-A beginner-friendly guide explaining Generative AI and Large Language Models (LLMs), how they work, key concepts, real-world applications, and steps to start using AI responsibly and effectively.
+A beginner-friendly guide explaining [Generative AI](https://www.linkedin.com/pulse/databricks-transforming-sales-experience-using-genai-sienna-faleiro-zfxte) and Large Language Models (LLMs), how they work, key concepts, real-world applications, and steps to start using AI responsibly and effectively.
 
 # 🔎 What this guide is about
 
-- The book introduces generative AI (gen-AI) and large language models (LLMs) - explaining what they are and how they work — in an easy-to-understand, beginner-friendly way.
-- It covers both theoretical foundations (important concepts behind LLMs) and practical, real-world uses — from simple content generation to building advanced AI-powered applications.
+- The book introduces generative AI (gen-AI) and large language models (LLMs) - explaining what they are and how they work in an easy-to-understand, beginner-friendly way.
+- It covers both theoretical foundations (important concepts behind LLMs) and practical, real-world uses from simple content generation to building advanced AI-powered applications.
 
 ## ✅ Key Topics & What You’ll Learn
 
