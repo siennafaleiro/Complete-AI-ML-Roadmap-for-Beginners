@@ -70,6 +70,8 @@ The domain of AI/ML is a vast deep ocean and it's time for you to build a boat a
 | 4             | `YouTube`      | [Learn Python in 4 Hours](https://www.youtube.com/watch?v=rfscVS0vtbw)      | 
 | 5             | `⭐Practice!`  | [Practice Python on HackerRank](https://www.hackerrank.com/domains/python) |
 | 6             | `Certificate`  | [Python Basic Certification](https://www.hackerrank.com/skills-verification/python_basic) |
+| 7             | `Certificate`  | [Learn Python Certification](https://www.certfun.com/databricks/databricks-certified-associate-developer-apache-spark-python) |
+| 8             | `Certificate`  | [Practice Python on Certfun](https://www.certfun.com/esri/epya-2024-esri-arcgis-api-python-associate-2024) |
 
 
 
@@ -136,6 +138,7 @@ Time to harness the power of our human brain to develop something that resembles
 | 3             | `Course`      | [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)               |
 | 4             | `⭐YouTube`     | [Deep Learning Crash Course for Beginners](https://www.youtube.com/watch?v=VyWAvY2CF9c)    |
 | 5             | `Playlist`     | [Neural Networks: Zero to Hero](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=xfuffzwv3I9MT0Lc)    |
+| 6             | `Newsletter`     | [Artificial Intelligence vs Machine Learning vs Deep Learning](https://www.linkedin.com/pulse/artificial-intelligence-vs-machine-learning-deep-sienna-faleiro-tglne/)    |
 
 
 
