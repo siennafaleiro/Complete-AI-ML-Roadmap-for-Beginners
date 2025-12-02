@@ -119,7 +119,7 @@ This command will install all the listed libraries in one go.
 
 ## Additional Resources
 
-For more detailed documentation and tutorials on each library, refer to their official websites:
+For more detailed documentation and tutorials on each library, refer to their official websites and newsletters:
 
 - [NumPy Documentation](https://numpy.org/doc/)
 - [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
@@ -137,5 +137,6 @@ For more detailed documentation and tutorials on each library, refer to their of
 - [Keras Documentation](https://keras.io/)
 - [PyTorch Documentation](https://pytorch.org/docs/)
 - [MXNet Documentation](https://mxnet.apache.org/versions/1.8.0/api/python/docs/tutorials/index.html)
+- [TechCert Insights Newsletters](https://www.linkedin.com/newsletters/techcert-insights-7324010275383222274/)
 
 This README should help you get started with installing and using some of the most popular libraries in data science, machine learning, computer vision, and deep learning. Happy coding!
