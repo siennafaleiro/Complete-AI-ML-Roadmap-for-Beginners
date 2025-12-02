@@ -86,6 +86,7 @@ Data is the new oil! Before jumping into making advanced AI, let's learn about t
 | 3             | `YouTube`     | [Python for Data Science](https://www.youtube.com/watch?v=LHBE6Q9XlzI)         |  
 | 4             | `Course`      | [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) |  
 | 5             | `⭐Course`     | [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)         | 
+| 6             | `Newsletter`     | [What is Data Science?](https://www.linkedin.com/pulse/what-data-science-deep-dive-field-how-get-dell-sienna-faleiro-nsege/)         |
 
 
 
@@ -102,7 +103,8 @@ Time to use that data to train a machine on how to learn them. Machine learning 
 | 3             | `Website`     | [Machine Learning Tutorial - GFG](https://www.geeksforgeeks.org/machine-learning/) | 
 | 4             | `Course`      | [Explore Azure with OpenAI](https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/)|
 | _5*_             | `Course`      | [Machine Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction) |
-| 6              | `Course`      | [Machine Learning Engineer Learning Path from Google Cloud Skills Boost](https://www.cloudskillsboost.google/paths/17) 
+| 6              | `Course`      | [Machine Learning Engineer Learning Path from Google Cloud Skills Boost](https://www.cloudskillsboost.google/paths/17)
+| 7              | `Website`      | [How EXIN BCS Machine Learning Award Certification Puts You Ahead](https://www.certfun.com/blog/how-exin-bcs-machine-learning-award-certification-puts-you-ahead)
 
 _*❗ The ML Specialization by Andrew NG is a highly specialized and industry level course by one of the most promient AI scientist - Andrew NG. It is an expert level course and is highly recommened to do one you get a good grasp of the foundational knowledge._
 
@@ -151,6 +153,7 @@ The big buzz word everywhere! Create text, images, audios, videos, and more all 
 | 5             | `E-Book`      | [Generative AI and LLMs for Dummies](./resources/Generative-AI-and-LLMs-for-Dummies.pdf) |
 | 6             | `Course`      | [Generative AI Learning Path by Google Cloud Skills Boost](https://www.cloudskillsboost.google/paths/118) |
 | 7             | `YouTube`     | [Generative AI for Developers](https://www.youtube.com/watch?v=F0GQ0l2NfHA) |
+| 8             | `Website`     | [Agentic Automation Associate](https://www.certfun.com/blog/top-7-reasons-earn-uipath-agentic-automation-associate-certification) |
 
 ### Sub-Module 7A - Retrieval Augmented Generation (RAG)
 Retrieval-augmented generation (RAG) is a natural language processing (NLP) technique that combines the capabilities of traditional information retrieval systems with the strengths of generative large language models (LLMs)
