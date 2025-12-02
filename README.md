@@ -1,10 +1,10 @@
 <h1 align=center> Free AI and Machine Learning Roadmap with Resources </h1>
 
-🧠 Become skilled in Artificial Intelligence, Machine Learning, Generative AI, Deep Learning, Data Science, Natural Language Processing, Reinforcement Learning and more with this complete 0 to 100 repository.
+🧠 Build expertise in Artificial Intelligence, Machine Learning, Generative AI, Deep Learning, Data Science, NLP, Reinforcement Learning, and more with this complete 0–100 learning repository.
 
-💡 You can follow these modules simultaneously as well as in order given below. The modules are ranked in increasing order of difficulty. Content with a `⭐` are highly recommended.
+💡 You can explore the modules in sequence or in parallel—they’re arranged from beginner to advanced. Items marked with a ⭐ are highly recommended.
 
-📚 These are a collection of the best free resources from YouTube and online courses, as well as other popular blogs and websites.
+📚 This roadmap brings together the best free tutorials, YouTube playlists, courses, blogs, and trusted online resources to help you learn effectively.
 
 ## Contents
 
@@ -199,6 +199,7 @@ Don't just provide the solutions, start acting on it. Agentic AI workflows integ
 | 4              | `YouTube`     | [Building a Team of AI Agents in n8n with No Code](https://www.youtube.com/watch?v=9FuNtfsnRNo) |
 | 5             | `Website`      | [n8n Documentation](https://docs.n8n.io/) |
 | 6             | `Website`      | [Generative AI vs Agentic AI - Forbes](https://www.forbes.com/sites/bernardmarr/2025/02/03/generative-ai-vs-agentic-ai-the-key-differences-everyone-needs-to-know/)       |
+| 7             | `Newsletter`      | [Gen AI vs AI Agents vs Agentic AI](https://www.linkedin.com/pulse/gen-ai-vs-agents-agentic-ultimate-guide-new-landscape-sienna-faleiro-mlqke/) |
 
 
 
@@ -217,8 +218,10 @@ Additional bonus courses and problem solving exercises.
 
 ## PROJECTS! 
 * 20 Popular Deep Learning Projects - [TheCleverProgrammer Blog](https://thecleverprogrammer.com/2020/11/22/deep-learning-projects-with-python/)
+* Machine Learning Applications & Certification - [Machine Learning Applications](https://www.linkedin.com/pulse/machine-learning-applications-certification-sienna-faleiro-qf7ae/)
 * 500 AI, Machine learning, Deep learning, Computer vision, NLP Projects with code - [GitHub Repo](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
 * Machine Learning Projects - [GeeksForGeeks](https://www.geeksforgeeks.org/machine-learning-projects/)
+* 7 Artificial Intelligence and Machine Learning Trends For 2025 - [TechCert Insights](https://www.linkedin.com/pulse/top-7-artificial-intelligence-machine-learning-trends-sienna-faleiro-h4exe/)
 * 15 Python Reinforcement Learning Project Ideas for Beginners - [Project Pro](https://www.projectpro.io/article/reinforcement-learning-projects-ideas-for-beginners-with-code/521)
 
 ## Interesting Websites to Visit:
@@ -228,6 +231,7 @@ Additional bonus courses and problem solving exercises.
 * [Google Semantris Machine Learning Word Game](https://research.google.com/semantris/)
 * [Replika AI Avatars](https://replika.com/)
 * [AI Music, Text to Speech, and Voice to Voice](https://fakeyou.com/)
+* [AI Certifications & Guidance](https://www.certfun.com/blog)
   
 ### AI Newsletters
 * [The Rundown AI](https://www.therundown.ai/)
@@ -235,12 +239,14 @@ Additional bonus courses and problem solving exercises.
 * [AI Breakfast](https://aibreakfast.beehiiv.com/)
 * [TLDR AI](https://tldr.tech/ai)
 * [The Neuron](https://www.theneurondaily.com/)
+* [The AI TechCert Insights](https://www.linkedin.com/newsletters/techcert-insights-7324010275383222274/)
 
 ### AI Blogs
 * [Google AI Blogs](https://ai.google/discover/blogs/)
 * [Distill Publications](https://distill.pub/)
 * [Machine Learning Mastery](https://machinelearningmastery.com/blog/)
-
+* [AI Certifications & Guidance](https://www.certfun.com/blog)
+* [AI & Machine Learning](https://cloud.google.com/blog/products/ai-machine-learning)
 
 
 ## Contribute
